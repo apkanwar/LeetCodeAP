@@ -47,6 +47,12 @@ const problems = [
         title: 'Reverse Integer',
         completedAt: '2025-06-19T22:20:00Z',
         difficulty: 'Medium',
+    },
+    {
+        slug: 'longest-common-prefix',
+        title: 'Longest Common Prefix',
+        completedAt: '2025-06-24T23:40:00Z',
+        difficulty: 'Easy',
     }
 ];
 
