@@ -53,6 +53,12 @@ const problems = [
         title: 'Longest Common Prefix',
         completedAt: '2025-06-24T23:40:00Z',
         difficulty: 'Easy',
+    },
+    {
+        slug: 'int-to-roman',
+        title: 'Integer to Roman Numeral',
+        completedAt: '2025-07-03T16:00:00Z',
+        difficulty: 'Medium',
     }
 ];
 
