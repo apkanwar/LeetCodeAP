@@ -59,6 +59,12 @@ const problems = [
         title: 'Integer to Roman Numeral',
         completedAt: '2025-07-03T16:00:00Z',
         difficulty: 'Medium',
+    },
+    {
+        slug: 'container-with-most-water',
+        title: 'Container With Most Water',
+        completedAt: '2025-07-09T22:20:00Z',
+        difficulty: 'Medium',
     }
 ];
 
