@@ -65,6 +65,12 @@ const problems = [
         title: 'Container With Most Water',
         completedAt: '2025-07-09T22:20:00Z',
         difficulty: 'Medium',
+    },
+    {
+        slug: 'valid-parentheses',
+        title: 'Valid Parentheses',
+        completedAt: '2025-07-10T21:30:00Z',
+        difficulty: 'Easy',
     }
 ];
 
