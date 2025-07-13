@@ -71,6 +71,12 @@ const problems = [
         title: 'Valid Parentheses',
         completedAt: '2025-07-10T21:30:00Z',
         difficulty: 'Easy',
+    },
+    {
+        slug: 'merge-two-sorted-lists',
+        title: 'Merge Two Sorted Lists',
+        completedAt: '2025-07-13T12:30:00Z',
+        difficulty: 'Easy',
     }
 ];
 

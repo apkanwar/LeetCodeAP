@@ -18,6 +18,7 @@ class ListNode {
     }
 }
 
+
 function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
     let carry = 0;
     let lSum = new ListNode(0);
@@ -43,6 +44,6 @@ function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | nul
 };
 
 // Test Cases
-const result = addTwoNumbers(
+const resultOne = addTwoNumbers(
     new ListNode(2, new ListNode(4, new ListNode(3))), new ListNode(5, new ListNode(6, new ListNode(4))));
-console.log(result ? result.printList() : null);
+console.log(resultOne ? resultOne.printList() : null);
